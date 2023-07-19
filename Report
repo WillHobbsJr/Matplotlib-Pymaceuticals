@@ -1,14 +1,14 @@
-So as I carefully analyzed the different drugs within the data base as well as the effect they have on the tumor size,
-it was clear to see that the Capomulin drug clearly had the biggest data impacts throughout all the data. It was the
-drug with more regular used and had a positive impact especially with regards to decreasing the size of the tumors. For example, 
-on average Capomulin was very effective with decreasing the tumor volume (size) from (45mm t0 36.2mm ) which was significant.
+So, as I carefully analyzed the different drugs within the data base as well as the effect they have on the tumor size,
+It was clear to see that the Capulin drug clearly had the biggest data impacts throughout all the data. It was the
+drug with more regular use and had a positive impact especially with regards to decreasing the size of the tumors. For example, 
+On average Capulin was amazingly effective with decreasing the tumor volume (size) from (45mm t0 36.2mm) which was significant.
 
-•	We are able to see that the linear regresion model the correlation betweeen the mouse weight versus the 
-average tumor volume which is called the Capomulin drug. We are able to see the positive relationship between the weight and 
-the tumor (size). In other words, we are able to conclude that as the weight of the mouse increased the tumor volume (size)
+•	We can see that the linear regression models the correlation between the mouse weight versus the 
+average tumor volume which the Capulin drug. We can see the positive relationship between the weight and 
+the tumor (size). In other words, we can conclude that as the weight of the mouse increased the tumor volume (size)
 increased as well. 
 
-•	I also concluded that the Capomulin drug had a significant impact on certain mouses. For example, I took mouse l509 and creted a 
+•	I also concluded that the Capulin drug had a significant impact on certain mice. For example, I took mouse l509 and created a 
 line plot with the data I gather from the csv files. I was able to compare the tumor volume (size) of specifically mouse l509 to
-the change after receiving the Capomulin drug. After plotting the information we are able to see that within thirty five days of treatment
-the tumor size had decreased by more than ten percent of the data. 
+the change after receiving the Capulin drug. After plotting the information, we can see that within thirty-five days of treatment.
+the tumor size had decreased by more than ten percent of the data.
