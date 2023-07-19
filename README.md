@@ -1,7 +1,6 @@
 # Matplotlib-Pymaceuticals
 
-My Tasks were as follows 
-This assignment is broken down into the following tasks:
+My Tasks were as follows:
 
 Prepare the data.
 
